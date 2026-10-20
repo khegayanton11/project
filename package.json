@@ -1,0 +1,13 @@
+{
+  "name": "forms-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Конструктор форм отклика для карьерной платформы: админка, публичная ссылка, ответы, аналитика отказов",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
